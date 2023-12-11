@@ -1,8 +1,10 @@
 <h1>ECONOMETRICS Projet</h1>
 
+<h3>Authors : Anne KONDOLAS, Mélinda GLAVAN</h3>
+
 <h2>Overview</h2> 
 
-Welcome to the Econometrics Analysis project of Anne Kondolas and Mélinda GLAVAN! This project aims to provide a comprehensive examination of economic trends and relationships using advanced statistical methods such as the OLS regression, significance tests, times series analysis. By leveraging econometric techniques, we seek to uncover meaningful insights into the complex interplay of various economic variables.
+Welcome to our Econometrics project! This project aims to provide a comprehensive examination of economic trends and relationships using advanced statistical methods such as the OLS regression, significance tests, times series analysis. By leveraging econometric techniques, we seek to uncover meaningful insights into the complex interplay of various economic variables.
 
 <h2>Language used : Python</h2>
 
