@@ -7,7 +7,7 @@ Welcome to the Econometrics Analysis project of Anne Kondolas and Mélinda GLAVA
 Language used : Python
 <h2>Table of Contents</h2>
 <ol>
-    <li><a href="#https://github.com/melindaglavan/PROJET-Econometrics-MODS202/blob/main/PART%201%20-%20CROSS%20SECTION%20DATA.ipynb">PART ONE : Cross section data</a></li>
+    <li><a href="PART 1 - CROSS SECTION DATA.ipynb">PART ONE : Cross section data</a></li>
     <li><a href="#PART 2 - HETEROSKEDASTICITY.ipynb">PART TWO : Heteroskedasticity</a></li>
     <li><a href="#PART 3 - TIME SERIES DATA.ipynb">PART THREE : Time series data</a></li>
 </ol>
