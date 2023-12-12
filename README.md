@@ -11,7 +11,7 @@ Welcome to our Econometrics project! This project aims to provide a comprehensiv
 
 <h2>Table of Contents</h2>
 <ol>
-    <li><a href="#PART1-CROSS-SECTION-DATA.ipynb">PART ONE : Cross section data</a></li>
-    <li><a href="#PART2-HETEROSKEDASCITY.ipynb">PART TWO : Heteroskedasticity</a></li>
-    <li><a href="#PART3-TIME-SERIES-DATA.ipynb">PART THREE : Time series data</a></li>
+    <li><a href="PART1-CROSS-SECTION-DATA.ipynb">PART ONE : Cross section data</a></li>
+    <li><a href="PART2-HETEROSKEDASCITY.ipynb">PART TWO : Heteroskedasticity</a></li>
+    <li><a href="PART3-TIME-SERIES-DATA.ipynb">PART THREE : Time series data</a></li>
 </ol>
